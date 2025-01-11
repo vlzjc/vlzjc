@@ -1,8 +1,8 @@
-## 👋 Jaime Here!
-📈 An analytics enthusiast/fan/supporter. 
-🔭 I’m currently working on data analytics projects.
-🥚 You can follow my learning and project in my [site](vlzjc.github.io)
-⚡ Fun fact: Around 2.5 quintillion bytes worth of data is generated each day.
+### 👋 Jaime Here!
+  📈 An analytics enthusiast/fan/supporter. 
+  🔭 I’m currently working on data analytics projects.
+  🥚 You can follow my learning and project in my [site](vlzjc.github.io)
+  ⚡ Fun fact: Around 2.5 quintillion bytes worth of data is generated each day.
 <!--
 **vlzjc/vlzjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
