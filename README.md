@@ -10,7 +10,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
@@ -21,10 +20,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=flat&logo=HumbleBundle&logoColor=white)
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-[![GOG.com](https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff)](#)
 
 
 # 📊 GitHub Stats:
