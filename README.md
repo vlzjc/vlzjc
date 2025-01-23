@@ -1,5 +1,9 @@
+> [!NOTE]
+> This is a note.
+
 # 💫 About Me:
 📈 An analytics enthusiast/fan/supporter.<br>🔭 I’m currently working on data analytics projects.<br>🥚 You can follow my learning and project in my site<br>⚡ Fun fact: Around 2.5 quintillion bytes worth of data is generated each day.
+
 
 
 ## 🌐 Socials:
